@@ -1,4 +1,8 @@
-汽车租赁数据库管理系统---springboot后端系统
+汽车租赁数据库管理系统---springboot+vue+postgresql
+springboot 2.7.6
+vue3
+postgresql14.2
+vue前端组件使用的是ElementPlus
 
 项目背景：
 Database Design: Using MySQL and PHP to
