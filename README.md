@@ -4,6 +4,11 @@ vue3
 postgresql14.2
 vue前端组件使用的是ElementPlus
 
+页面展示：
+![image](https://github.com/vivia12/--springboot-vue/assets/105705567/75547d15-2e7c-4093-b4ef-87f4f4d9b262)
+
+
+
 项目背景：
 Database Design: Using MySQL and PHP to
 Implement the Car Share Reservation System
